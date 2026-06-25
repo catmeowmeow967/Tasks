@@ -1,0 +1,10 @@
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\bin\Debug\ArrayTasksWF.exe.config
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\bin\Debug\ArrayTasksWF.exe
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\bin\Debug\ArrayTasksWF.pdb
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\obj\Debug\ArrayTasksWF.csproj.AssemblyReference.cache
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\obj\Debug\ArrayTasksWF.Form1.resources
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\obj\Debug\ArrayTasksWF.Properties.Resources.resources
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\obj\Debug\ArrayTasksWF.csproj.GenerateResource.cache
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\obj\Debug\ArrayTasksWF.csproj.CoreCompileInputs.cache
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\obj\Debug\ArrayTasksWF.exe
+D:\Учеба\ArrayTasksWF\ArrayTasksWF\obj\Debug\ArrayTasksWF.pdb
